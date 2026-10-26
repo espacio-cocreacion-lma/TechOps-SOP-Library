@@ -3,5 +3,15 @@
 
 This repository serves as a professional portfolio containing standardized operating procedures for legacy hardware restoration, system optimization, and root-cause diagnostic protocols under Linux environments.
 
+---
+
+### 🎓 Professional Certifications & Continuous Training
+* **Jornadas de Data Science con IA** – *BIG school* (Oct 2026)  
+  *Focus: Data analysis, predictive modeling, and AI-driven process automation.*
+* **Curso de Hacking Ético: de 0 a Hackear Aplicaciones** – *BIG school* (Oct 2026)  
+  *Focus: Cybersecurity fundamentals, web application penetration testing, and vulnerability assessment.*
+
+---
+
 ### 📋 Available Procedures
 * **[SOP-001: Legacy Hardware Restoration & OS Optimization Protocol](./SOP-001-Hardware-Restoration-and-OS-Optimization.md)** – Step-by-step methodology for hardware auditing, sanitization, and lightweight OS deployment.
