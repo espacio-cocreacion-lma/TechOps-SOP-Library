@@ -6,9 +6,9 @@ This repository serves as a professional portfolio containing standardized opera
 ---
 
 ### 🎓 Professional Certifications & Continuous Training
-* **Jornadas de Data Science con IA** – *BIG school* (Oct 2026)  
+* **Jornadas de Data Science con IA** – *BIG school* (Oct 2026)
   *Focus: Data analysis, predictive modeling, and AI-driven process automation.*
-* **Curso de Hacking Ético: de 0 a Hackear Aplicaciones** – *BIG school* (Oct 2026)  
+* **Curso de Hacking Ético: de 0 a Hackear Aplicaciones** – *BIG school* (Oct 2026)
   *Focus: Cybersecurity fundamentals, web application penetration testing, and vulnerability assessment.*
 
 ---
@@ -17,3 +17,11 @@ This repository serves as a professional portfolio containing standardized opera
 * **[SOP-001: Legacy Hardware Restoration & OS Optimization Protocol](./SOP-001-Hardware-Restoration-and-OS-Optimization.md)** – Step-by-step methodology for hardware auditing, sanitization, and lightweight OS deployment.
 * **[SOP-002: System Log Analysis and Service Recovery Protocol](./SOP-002-System-Log-Analysis-and-Service-Recovery.md)** – Structured diagnostic workflow for real-time log auditing, root-cause analysis (RCA), and service recovery in Linux environments.
 * **[SOP-003: Network Diagnostics and Connectivity Resolution Protocol](./SOP-003-Network-Diagnostics-and-Connectivity-Resolution-Protocol.md)** – Systematic, layered troubleshooting methodology for diagnosing network connectivity, latency bottlenecks, and DNS resolution issues.
+
+---
+
+## 🏛️ Operating Philosophy & Open Source Commitment
+This library is maintained as a living engineering resource, driven by principles of digital sovereignty, resourcefulness, and rigorous diagnostics. Built from the ground up for robust technical operations.
+
+* **Approach:** Systematic isolation, non-intrusive auditing, and clean documentation.
+* **License:** Open Source and designed for continuous operational readiness.
