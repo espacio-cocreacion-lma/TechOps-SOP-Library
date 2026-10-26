@@ -15,3 +15,4 @@ This repository serves as a professional portfolio containing standardized opera
 
 ### 📋 Available Procedures
 * **[SOP-001: Legacy Hardware Restoration & OS Optimization Protocol](./SOP-001-Hardware-Restoration-and-OS-Optimization.md)** – Step-by-step methodology for hardware auditing, sanitization, and lightweight OS deployment.
+* **[SOP-002: System Log Analysis and Service Recovery Protocol](./SOP-002-System-Log-Analysis-and-Service-Recovery.md)** – Structured diagnostic workflow for real-time log auditing, root-cause analysis (RCA), and service recovery in Linux environments.
